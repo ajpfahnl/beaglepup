@@ -1,7 +1,7 @@
 # Beaglepup
 
 ## Overview
-Beaglepup is a program written in C that runs on the Beaglbone Gree Wireless board. It utilizes TCP or TLS to interact with a server.
+Beaglepup is a program written in C that runs on the Beaglebone Green Wireless board. It utilizes TCP or TLS to interact with a server.
 
 ## Setup
 * Beaglebone Green Wireless 
